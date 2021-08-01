@@ -15,6 +15,8 @@ npm install
 npm run electron:serve
 ```
 
+音声合成エンジンのリポジトリはこちらです https://github.com/Hiroshiba/voicevox_engine
+
 ## ビルド
 
 ```
